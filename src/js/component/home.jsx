@@ -6,8 +6,8 @@ import TaskList from "./taskList.jsx";
 const Home = () => {
 	return (
 		<div className="container-fluid p-0">
-			<div className="row mt-4 mb-3">
-				<div className="col-12">
+			<div className="row mt-4 mb-3 justify-content-center">
+				<div className="col-12 container-form">
 					<h1 className=" text-center">
 						 TO-DO LIST
 					</h1>

@@ -20,6 +20,9 @@ h1 {
     font-size: 48px;
     font-weight: bold;
 }
+.container-form{
+    width: 700px;
+}
 
 li {
     list-style: none;
