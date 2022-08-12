@@ -1,5 +1,7 @@
 # Todolist Using React
-<img src="src/img/PreviewTododefinitiva.png">
+<img src="src/img/PreviewTododefinitiva.png"/>
+
+
 
 ## Instala el paquete npm
 
@@ -29,6 +31,7 @@ Esta plantilla es similar a create-react-app pero está pensada para los estudia
 La imagen del background la he creado yo misma ayudándome de la herramienta de diseño gráfico Canva.
 Se cumplen todos los puntos que se marcaban en las instrucciones, en el ejercicio he utilizado tanto entradas controladas como variables de estado.
 El proyecto es totalmente responsivo.
+<img src="src/img/responsive-img.png"/>
 
 ## 💫 Pruébalo tu mismo
 https://todolist-using-react-snowy.vercel.app/
